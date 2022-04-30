@@ -37,7 +37,8 @@ h1 {
   padding: 24px;
   margin: 30px;
   border-radius: 4px;
-  box-shadow: 0 1px 1px rgb(143, 143, 143) ;
+  box-shadow: 1px 1px 1px rgb(143, 143, 143) ;
+  text-align: center;
 }
 #profile-image {
   border-radius: 50%;
@@ -62,8 +63,9 @@ h1 {
 .socials {
   background-color: white;
   padding: 10px 10px;
-  margin: 350px;
+  margin: 30px;
   border-radius: 4px;
+  text-align: center;
 }
 
 .icons {
